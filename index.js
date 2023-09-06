@@ -11,5 +11,4 @@ var port = 80;
 server.listen(port);
 
 console.log("Server running at http://localhost:%d", port);
-This is jenkenins automatic build test
-This is the second test.
+This is jenkenins automatic build test.
